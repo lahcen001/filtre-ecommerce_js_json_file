@@ -1,0 +1,354 @@
+[
+    {
+        "Image": "img/Chemise/ChemiseBlanc-1.jpg",
+        "ProductType": "Chemise",
+        "Brand": "LCW",
+        "Couleur": "Blanc",
+        "Taille": "Small",
+        "Prix": "120 "
+    },
+    {
+        "Image": "img/Chemise/ChemiseBlanc-2.jpg",
+        "ProductType": "Chemise",
+        "Brand": "ZARA",
+        "Couleur": "Blanc",
+        "Taille": "Medium",
+        "Prix": "100 "
+    },
+    {
+        "Image": "img/Chemise/ChemiseBlanc-3.jpg",
+        "ProductType": "Chemise",
+        "Brand": "PULL&BEAR",
+        "Couleur": "Blanc",
+        "Taille": "Small",
+        "Prix": "80 "
+    },
+    {
+        "Image": "img/Chemise/ChemiseBlanc-4.jpg",
+        "ProductType": "Chemise",
+        "Brand": "BERSHKA",
+        "Couleur": "Blanc",
+        "Taille": "Large",
+        "Prix": "150 "
+    },
+    {
+        "Image": "img/Chemise/ChemiseBlanc-5.jpg",
+        "ProductType": "Chemise",
+        "Brand": "ZARA",
+        "Couleur": "Blanc",
+        "Taille": "Medium",
+        "Prix": "100 "
+    },
+    {
+        "Image": "img/Chemise/ChemiseBleu-1.jpg",
+        "ProductType": "Chemise",
+        "Brand": "ZARA",
+        "Couleur": "Bleu",
+        "Taille": "Medium",
+        "Prix": "100 "
+    },
+    {
+        "Image": "img/Chemise/ChemiseBleu-3.jpg",
+        "ProductType": "Chemise",
+        "Brand": "ZARA",
+        "Couleur": "Bleu",
+        "Taille": "Small",
+        "Prix": "100 "
+    },
+    {
+        "Image": "img/Chemise/ChemiseBleu-4.jpg",
+        "ProductType": "Chemise",
+        "Brand": "PULL&BEAR",
+        "Couleur": "Bleu",
+        "Taille": "Large",
+        "Prix": "80 "
+    },
+    {
+        "Image": "img/Chemise/ChemiseBleu-5.jpg",
+        "ProductType": "Chemise",
+        "Brand": "LCW",
+        "Couleur": "Bleu",
+        "Taille": "Large",
+        "Prix": "100 "
+    },
+    {
+        "Image": "img/Chemise/ChemiseNoir-1.jpg",
+        "ProductType": "Chemise",
+        "Brand": "LCW",
+        "Couleur": "Noir",
+        "Taille": "Small",
+        "Prix": "120 "
+    },
+    {
+        "Image": "img/Chemise/ChemiseNoir-2.jpg",
+        "ProductType": "Chemise",
+        "Brand": "ZARA",
+        "Couleur": "Noir",
+        "Taille": "Medium",
+        "Prix": "100 "
+    },
+    {
+        "Image": "img/Chemise/ChemiseNoir-3.jpg",
+        "ProductType": "Chemise",
+        "Brand": "PULL&BEAR",
+        "Couleur": "Noir",
+        "Taille": "Small",
+        "Prix": "80 "
+    },
+    {
+        "Image": "img/Chemise/ChemiseNoir-4.jpg",
+        "ProductType": "Chemise",
+        "Brand": "BERSHKA",
+        "Couleur": "Noir",
+        "Taille": "Large",
+        "Prix": "150 "
+    },
+    {
+        "Image": "img/Chemise/ChemiseNoir-5.jpg",
+        "ProductType": "Chemise",
+        "Brand": "ZARA",
+        "Couleur": "Noir",
+        "Taille": "Medium",
+        "Prix": "100 "
+    },
+    {
+        "Image": "img/T-shirt/T-shirtNoir-1.jpg",
+        "ProductType": "T-shirt",
+        "Brand": "LCW",
+        "Couleur": "Noir",
+        "Taille": "Small",
+        "Prix": "120 "
+    },
+    {
+        "Image": "img/T-shirt/T-shirtNoir-2.jpg",
+        "ProductType": "T-shirt",
+        "Brand": "ZARA",
+        "Couleur": "Noir",
+        "Taille": "Medium",
+        "Prix": "100 "
+    },
+    {
+        "Image": "img/T-shirt/T-shirtNoir-3.jpg",
+        "ProductType": "T-shirt",
+        "Brand": "PULL&BEAR",
+        "Couleur": "Noir",
+        "Taille": "Small",
+        "Prix": "80 "
+    },
+    {
+        "Image": "img/T-shirt/T-shirtNoir-4.jpg",
+        "ProductType": "T-shirt",
+        "Brand": "BERSHKA",
+        "Couleur": "Noir",
+        "Taille": "Large",
+        "Prix": "150 "
+    },
+    {
+        "Image": "img/T-shirt/T-shirtNoir-5.jpg",
+        "ProductType": "T-shirt",
+        "Brand": "ZARA",
+        "Couleur": "Noir",
+        "Taille": "Medium",
+        "Prix": "100 "
+    },
+    {
+        "Image": "img/T-shirt/T-shirtBlanc-1.jpg",
+        "ProductType": "T-shirt",
+        "Brand": "LCW",
+        "Couleur": "Blanc",
+        "Taille": "Small",
+        "Prix": "120 "
+    },
+    {
+        "Image": "img/T-shirt/T-shirtBlanc-2.jpg",
+        "ProductType": "T-shirt",
+        "Brand": "ZARA",
+        "Couleur": "Blanc",
+        "Taille": "Medium",
+        "Prix": "100 "
+    },
+    {
+        "Image": "img/T-shirt/T-shirtBlanc-3.jpg",
+        "ProductType": "T-shirt",
+        "Brand": "PULL&BEAR",
+        "Couleur": "Blanc",
+        "Taille": "Small",
+        "Prix": "80 "
+    },
+    {
+        "Image": "img/T-shirt/T-shirtBlanc-4.jpg",
+        "ProductType": "T-shirt",
+        "Brand": "BERSHKA",
+        "Couleur": "Blanc",
+        "Taille": "Large",
+        "Prix": "150 "
+    },
+    {
+        "Image": "img/T-shirt/T-shirtBlanc-5.jpg",
+        "ProductType": "T-shirt",
+        "Brand": "ZARA",
+        "Couleur": "Blanc",
+        "Taille": "Medium",
+        "Prix": "100 "
+    },
+    {
+        "Image": "img/T-shirt/T-shirtBleuM-1.jpg",
+        "ProductType": "T-shirt",
+        "Brand": "LCW",
+        "Couleur": "BleuM",
+        "Taille": "Small",
+        "Prix": "120 "
+    },
+    {
+        "Image": "img/T-shirt/T-shirtBleuM-2.jpg",
+        "ProductType": "T-shirt",
+        "Brand": "ZARA",
+        "Couleur": "BleuM",
+        "Taille": "Medium",
+        "Prix": "100 "
+    },
+    {
+        "Image": "img/T-shirt/T-shirtBleuM-3.jpg",
+        "ProductType": "T-shirt",
+        "Brand": "PULL&BEAR",
+        "Couleur": "BleuM",
+        "Taille": "Small",
+        "Prix": "150 "
+    },
+    {
+        "Image": "img/T-shirt/T-shirtBleuM-4.jpg",
+        "ProductType": "T-shirt",
+        "Brand": "BERSHKA",
+        "Couleur": "BleuM",
+        "Taille": "Large",
+        "Prix": "150 "
+    },
+    {
+        "Image": "img/T-shirt/T-shirtBleuM-5.jpg",
+        "ProductType": "T-shirt",
+        "Brand": "ZARA",
+        "Couleur": "BleuM",
+        "Taille": "Medium",
+        "Prix": "100 "
+    },
+    {
+        "Image": "img/Jeans/JeansNoir-1.jpg",
+        "ProductType": "Jeans",
+        "Brand": "LCW",
+        "Couleur": "Noir",
+        "Taille": "Small",
+        "Prix": "120 "
+    },
+    {
+        "Image": "img/Jeans/JeansNoir-2.jpg",
+        "ProductType": "Jeans",
+        "Brand": "ZARA",
+        "Couleur": "Noir",
+        "Taille": "Medium",
+        "Prix": "100 "
+    },
+    {
+        "Image": "img/Jeans/JeansNoir-3.jpg",
+        "ProductType": "Jeans",
+        "Brand": "PULL&BEAR",
+        "Couleur": "Noir",
+        "Taille": "Small",
+        "Prix": "80 "
+    },
+    {
+        "Image": "img/Jeans/JeansNoir-4.jpg",
+        "ProductType": "Jeans",
+        "Brand": "BERSHKA",
+        "Couleur": "Noir",
+        "Taille": "Large",
+        "Prix": "150 "
+    },
+    {
+        "Image": "img/Jeans/JeansNoir-5.jpg",
+        "ProductType": "Jeans",
+        "Brand": "ZARA",
+        "Couleur": "Noir",
+        "Taille": "Medium",
+        "Prix": "250 "
+    },
+    {
+        "Image": "img/Jeans/JeansGris-1.jpg",
+        "ProductType": "Jeans",
+        "Brand": "LCW",
+        "Couleur": "Gris",
+        "Taille": "Small",
+        "Prix": "300 "
+    },
+    {
+        "Image": "img/Jeans/JeansGris-2.jpg",
+        "ProductType": "Jeans",
+        "Brand": "ZARA",
+        "Couleur": "Gris",
+        "Taille": "Medium",
+        "Prix": "270 "
+    },
+    {
+        "Image": "img/Jeans/JeansGris-3.jpg",
+        "ProductType": "Jeans",
+        "Brand": "PULL&BEAR",
+        "Couleur": "Gris",
+        "Taille": "Small",
+        "Prix": "200 "
+    },
+    {
+        "Image": "img/Jeans/JeansGris-4.jpg",
+        "ProductType": "Jeans",
+        "Brand": "BERSHKA",
+        "Couleur": "Gris",
+        "Taille": "Large",
+        "Prix": "300 "
+    },
+    {
+        "Image": "img/Jeans/JeansGris-5.jpg",
+        "ProductType": "Jeans",
+        "Brand": "ZARA",
+        "Couleur": "Gris",
+        "Taille": "Medium",
+        "Prix": "250 "
+    },
+    {
+        "Image": "img/Jeans/JeansIndigo-1.jpg",
+        "ProductType": "Jeans",
+        "Brand": "LCW",
+        "Couleur": "Indigo",
+        "Taille": "Small",
+        "Prix": "270 "
+    },
+    {
+        "Image": "img/Jeans/JeansIndigo-2.jpg",
+        "ProductType": "Jeans",
+        "Brand": "ZARA",
+        "Couleur": "Indigo",
+        "Taille": "Medium",
+        "Prix": "100 "
+    },
+    {
+        "Image": "img/Jeans/JeansIndigo-3.jpg",
+        "ProductType": "Jeans",
+        "Brand": "PULL&BEAR",
+        "Couleur": "Indigo",
+        "Taille": "Small",
+        "Prix": "190 "
+    },
+    {
+        "Image": "img/Jeans/JeansIndigo-4.jpg",
+        "ProductType": "Jeans",
+        "Brand": "BERSHKA",
+        "Couleur": "Indigo",
+        "Taille": "Large",
+        "Prix": "280 "
+    },
+    {
+        "Image": "img/Jeans/JeansIndigo-5.jpg",
+        "ProductType": "Jeans",
+        "Brand": "ZARA",
+        "Couleur": "Indigo",
+        "Taille": "Medium",
+        "Prix": "300 "
+    }
+]

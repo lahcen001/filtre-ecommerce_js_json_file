@@ -1,0 +1,14 @@
+.itm {
+    list-style: none;
+    padding: 0px;
+    margin: 0px;
+}
+
+.itm:last-child {
+    background-color: yellow;
+    text-align: center;
+}
+
+hr {
+    margin: 0px;
+}
